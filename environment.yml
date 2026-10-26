@@ -1,0 +1,14 @@
+name: tof_mra_benchmark_rebuild
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchio
+  - pandas
+  - nibabel
+  - numpy
+  - pyyaml
+  - scipy
+  - simpleitk
+  - tqdm
